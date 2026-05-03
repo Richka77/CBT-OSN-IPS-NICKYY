@@ -1,202 +1,177 @@
 [
   {
-    "text": "Perhatikan kegiatan ekonomi berikut!\n1). Pengembangan obyek wisata bahari\n2). Budidaya perikanan darat\n3). Budidaya tambak garam\n4). pertanian pasang surut\n5). Pertanian ladang.\nKegiatan ekonomi yang diusahakan penduduk di daerah pantai ditunjukkan oleh angka...",
-    "options": ["1), 2), dan 3)", "1), 3), dan 4)", "2), 3), dan 4)", "3), 4), dan 5)"],
+    "id": 1,
+    "text": "Perhatikan kegiatan ekonomi berikut!\n1. Pengembangan objek wisata bahari\n2. Budidaya perikanan darat\n3. Budidaya tambak garam\n4. Pertanian pasang surut\n5. Pertanian ladang\n\nKegiatan ekonomi yang diusahakan penduduk di daerah pantai ditunjukkan oleh angka ....",
+    "options": ["1, 2, dan 3", "1, 3, dan 4", "2, 3, dan 4", "3, 4, dan 5"],
     "answer": 1,
-    "pembahasan": "Kegiatan ekonomi di daerah pantai meliputi wisata bahari, tambak garam, dan pertanian pasang surut. Budidaya perikanan darat dan pertanian ladang bukan khas wilayah pantai."
+    "pembahasan": "Kegiatan khas wilayah pantai meliputi wisata bahari, tambak garam, dan pertanian pasang surut."
   },
   {
-    "text": "Indonesia memiliki banyak gunung api aktif. Dampak tersebut merupakan akibat dari adanya...",
+    "id": 2,
+    "text": "Indonesia memiliki banyak gunung api aktif. Hal tersebut merupakan akibat dari adanya ....",
     "options": ["Letak astronomis", "Letak geografis", "Letak geologis", "Letak absolut"],
     "answer": 2,
-    "pembahasan": "Indonesia berada di pertemuan lempeng tektonik sehingga banyak gunung api aktif. Hal ini berkaitan dengan letak geologis."
+    "pembahasan": "Indonesia berada di pertemuan lempeng tektonik sehingga memiliki banyak gunung api aktif."
   },
   {
-    "text": "Perhatikan pernyataan berikut! \n(1) Jumlah pelakunya lebih dari satu orang\n(2) Berlangsung secara sepihak\n(3) Adanya komunikasi antarpelaku\n(4) Hanya masa kini dan mendatang\n(5) Tidak harus memiliki tujuan tertentu.\nCiri-ciri interaksi sosial adalah...",
+    "id": 3,
+    "text": "Perhatikan pernyataan berikut!\n1. Jumlah pelakunya lebih dari satu orang\n2. Berlangsung secara sepihak\n3. Adanya komunikasi antarpelaku\n4. Terjadi pada masa kini dan mendatang\n5. Tidak harus memiliki tujuan tertentu\n\nCiri-ciri interaksi sosial adalah ....",
     "options": ["1 dan 2", "1 dan 3", "2 dan 4", "3 dan 5"],
     "answer": 1,
-    "pembahasan": "Interaksi sosial memerlukan minimal dua orang dan adanya komunikasi. Interaksi tidak berlangsung sepihak dan biasanya memiliki tujuan."
+    "pembahasan": "Interaksi sosial memerlukan minimal dua orang dan adanya komunikasi."
   },
   {
-    "text": "Tipe gunung api yang banyak terdapat di Indonesia adalah...",
+    "id": 4,
+    "text": "Tipe gunung api yang banyak terdapat di Indonesia adalah ....",
     "options": ["Maar", "Perisai", "Strato", "Kaldera"],
     "answer": 2,
-    "pembahasan": "Gunung api di Indonesia umumnya bertipe strato (kerucut) karena terbentuk dari lapisan lava dan material vulkanik."
+    "pembahasan": "Gunung api di Indonesia umumnya bertipe strato (kerucut)."
   },
   {
-    "text": "Erosi akibat gelombang laut yang mengikis pantai disebut...",
+    "id": 5,
+    "text": "Erosi akibat gelombang laut yang mengikis pantai disebut ....",
     "options": ["Abrasi", "Deflasi", "Glasial", "Korasi"],
     "answer": 0,
-    "pembahasan": "Abrasi adalah pengikisan pantai oleh gelombang laut. Deflasi oleh angin, glasial oleh es, dan korasi oleh angin berpasir."
+    "pembahasan": "Abrasi adalah pengikisan pantai oleh gelombang laut."
   },
   {
-    "text": "Contoh negara-negara di kawasan Asia adalah...",
-    "options": ["Pakistan, India, Nepal, Guatemala, Haiti", "Korea Selatan, Taiwan, Maroko, Sahara Barat, Aljazair", "Korea Selatan, Taiwan, Indonesia, Malaysia, Singapura", "Indonesia, Malaysia, Singapura, Myanmar, Thailand, Portugal"],
+    "id": 6,
+    "text": "Contoh negara-negara di kawasan Asia adalah ....",
+    "options": [
+      "Pakistan, India, Nepal, Guatemala, Haiti",
+      "Korea Selatan, Taiwan, Maroko, Sahara Barat, Aljazair",
+      "Korea Selatan, Taiwan, Indonesia, Malaysia, Singapura",
+      "Indonesia, Malaysia, Singapura, Myanmar, Thailand, Portugal"
+    ],
     "answer": 2,
-    "pembahasan": "Pilihan C berisi negara-negara yang semuanya berada di Asia. Pilihan lain mencampur negara dari benua lain."
+    "pembahasan": "Semua negara pada opsi tersebut berada di kawasan Asia."
   },
   {
-    "text": "Perhatikan provinsi berikut!\n1. Kalimantan Tengah\n2. Sulawesi Selatan\n3. DI Yogyakarta\n4. Kepulauan Riau\n5. Bangka Belitung\n6. Nusa Tenggara.\nProvinsi kepulauan adalah...",
-    "options": ["1, 2, 3", "1, 4, 6", "3, 4, 5", "4, 5, 6"],
+    "id": 7,
+    "text": "Perhatikan provinsi berikut!\n1. Kalimantan Tengah\n2. Sulawesi Selatan\n3. DI Yogyakarta\n4. Kepulauan Riau\n5. Bangka Belitung\n6. Nusa Tenggara\n\nProvinsi kepulauan adalah ....",
+    "options": ["1, 2, dan 3", "1, 4, dan 6", "3, 4, dan 5", "4, 5, dan 6"],
     "answer": 3,
-    "pembahasan": "Provinsi kepulauan terdiri dari banyak pulau, seperti Kepulauan Riau, Bangka Belitung, dan Nusa Tenggara."
+    "pembahasan": "Provinsi kepulauan terdiri dari wilayah pulau-pulau, seperti Kepulauan Riau, Bangka Belitung, dan Nusa Tenggara."
   },
   {
-    "text": "Jika skala peta 1 : 15.000.000 maka 1 cm di peta sama dengan...",
+    "id": 8,
+    "text": "Jika skala peta 1 : 15.000.000, maka 1 cm di peta sama dengan ....",
     "options": ["1,5 km", "15 km", "150 km", "1500 km"],
     "answer": 2,
-    "pembahasan": "1 cm = 15.000.000 cm = 150 km, karena 1 km = 100.000 cm."
+    "pembahasan": "1 cm = 15.000.000 cm = 150 km."
   },
   {
-    "text": "Pak Iwan menjual tanah dan membeli rumah. Fungsi uang dalam peristiwa ini adalah...",
+    "id": 9,
+    "text": "Pak Iwan menjual tanah dan menggunakan uangnya untuk membeli rumah. Fungsi uang dalam peristiwa tersebut adalah ....",
     "options": ["Fungsi turunan", "Alat pengukur nilai", "Alat tukar", "Alat pemindah kekayaan"],
     "answer": 3,
-    "pembahasan": "Uang digunakan untuk memindahkan kekayaan dari bentuk tanah ke rumah, sehingga berfungsi sebagai alat pemindah kekayaan."
+    "pembahasan": "Uang digunakan untuk memindahkan kekayaan dari satu bentuk ke bentuk lain."
   },
   {
-    "text": "Kegunaan garis lintang adalah...",
-    "options": ["Menentukan letak dan waktu", "Menentukan letak dan iklim matahari", "Menentukan letak dan pembagian iklim", "Menentukan letak negara dan waktu"],
+    "id": 10,
+    "text": "Kegunaan garis lintang adalah ....",
+    "options": [
+      "Menentukan letak dan waktu",
+      "Menentukan letak dan iklim matahari",
+      "Menentukan letak dan pembagian iklim",
+      "Menentukan letak negara dan waktu"
+    ],
     "answer": 2,
-    "pembahasan": "Garis lintang digunakan untuk menentukan letak suatu wilayah dan pembagian iklim berdasarkan posisi terhadap matahari."
+    "pembahasan": "Garis lintang digunakan untuk menentukan letak dan pembagian iklim."
   },
   {
-    "text": "Kerja sama ekonomi negara-negara Asia Pasifik adalah...",
+    "id": 11,
+    "text": "Kerja sama ekonomi negara-negara Asia Pasifik adalah ....",
     "options": ["ASEAN", "OPEC", "APEC", "WTO"],
     "answer": 2,
-    "pembahasan": "APEC (Asia-Pacific Economic Cooperation) merupakan kerja sama ekonomi di kawasan Asia Pasifik."
+    "pembahasan": "APEC adalah kerja sama ekonomi di kawasan Asia Pasifik."
   },
   {
-    "text": "Candi Prambanan merupakan peninggalan bercorak...",
+    "id": 12,
+    "text": "Candi Prambanan merupakan peninggalan bercorak ....",
     "options": ["Hindu", "Buddha", "Islam", "Hindu-Buddha"],
     "answer": 0,
-    "pembahasan": "Candi Prambanan adalah candi Hindu yang didedikasikan untuk Trimurti: Brahma, Wisnu, dan Siwa."
+    "pembahasan": "Candi Prambanan merupakan candi bercorak Hindu."
   },
   {
-    "text": "Peninggalan berupa tulang manusia atau hewan purba disebut...",
+    "id": 13,
+    "text": "Peninggalan berupa tulang manusia atau hewan purba disebut ....",
     "options": ["Fosil", "Candi", "Prasasti", "Monumen"],
     "answer": 0,
-    "pembahasan": "Fosil adalah sisa-sisa makhluk hidup purba yang telah membatu dan tersimpan dalam lapisan bumi."
+    "pembahasan": "Fosil adalah sisa makhluk hidup purba yang telah membatu."
   },
   {
-    "text": "Upaya mencegah pemanasan global adalah...",
-    "options": ["Membuang sampah", "Tidak buang limbah ke sungai", "Menanam pohon", "Membuat waduk"],
+    "id": 14,
+    "text": "Upaya yang tepat untuk mencegah pemanasan global adalah ....",
+    "options": [
+      "Membuang sampah pada tempatnya",
+      "Tidak membuang limbah ke sungai",
+      "Menanam pohon di lingkungan",
+      "Membuat waduk"
+    ],
     "answer": 2,
-    "pembahasan": "Menanam pohon membantu menyerap CO2 sehingga mengurangi efek rumah kaca."
+    "pembahasan": "Menanam pohon membantu menyerap karbon dioksida."
   },
   {
-    "text": "Salah satu keajaiban dunia dari India adalah...",
+    "id": 15,
+    "text": "Salah satu keajaiban dunia dari India adalah ....",
     "options": ["Menara Eiffel", "Taj Mahal", "Tembok Besar China", "Piramida"],
     "answer": 1,
-    "pembahasan": "Taj Mahal di India merupakan salah satu keajaiban dunia yang terkenal."
+    "pembahasan": "Taj Mahal merupakan salah satu keajaiban dunia yang berada di India."
   },
   {
-    "text": "Dampak negatif dari globalisasi adalah...",
-    "options": ["Mencintai budaya daerah", "Produksi budaya meningkat", "Budaya sering ditampilkan", "Budaya lokal ditinggalkan"],
-    "answer": 3,
-    "pembahasan": "Globalisasi dapat menyebabkan masyarakat meninggalkan budaya lokal karena pengaruh budaya asing."
-  },
-  {
-    "text": "Ciri-ciri dari globalisasi adalah...",
-    "options": ["Batas negara tidak jelas", "Perdagangan menjadi luas", "Informasi sulit didapatkan", "Pandangan menjadi sempit"],
+    "id": 16,
+    "text": "Ciri globalisasi adalah ....",
+    "options": [
+      "Batas antarnegara semakin jelas",
+      "Perdagangan semakin luas",
+      "Informasi sulit diperoleh",
+      "Pandangan semakin sempit"
+    ],
     "answer": 1,
-    "pembahasan": "Globalisasi ditandai dengan meluasnya perdagangan dan hubungan antarnegara."
+    "pembahasan": "Globalisasi ditandai dengan meluasnya perdagangan dan hubungan internasional."
   },
   {
-    "text": "Cara menyikapi globalisasi adalah...",
-    "options": ["Meniru konsumtif", "Mengambil yang positif", "Gunakan teknologi negatif", "Terima semua budaya"],
+    "id": 17,
+    "text": "Cara menyikapi globalisasi yang tepat adalah ....",
+    "options": [
+      "Meniru gaya hidup konsumtif",
+      "Mengambil pengaruh positif",
+      "Menggunakan teknologi untuk hal negatif",
+      "Menerima semua budaya asing"
+    ],
     "answer": 1,
     "pembahasan": "Sikap bijak adalah mengambil dampak positif dan menolak yang negatif."
   },
   {
-    "text": "Sikap pelajar menghadapi globalisasi adalah...",
-    "options": ["Pilih sesuai diri", "Beli teknologi", "Belajar mengikuti zaman", "Belajar sesuka hati"],
+    "id": 18,
+    "text": "Sikap pelajar dalam menghadapi globalisasi adalah ....",
+    "options": [
+      "Memilih sesuai keinginan",
+      "Membeli teknologi canggih",
+      "Belajar mengikuti perkembangan zaman",
+      "Belajar sesuka hati"
+    ],
     "answer": 2,
-    "pembahasan": "Pelajar harus aktif belajar dan mengikuti perkembangan zaman dengan cara yang benar."
+    "pembahasan": "Pelajar harus aktif belajar dan mengikuti perkembangan zaman."
   },
   {
-    "text": "Dampak negatif dari globalisasi adalah...",
-    "options": ["Komunikasi maju", "Masyarakat maju", "Nilai budaya bergeser", "Mudah bergaul"],
+    "id": 19,
+    "text": "Dampak negatif globalisasi adalah ....",
+    "options": [
+      "Komunikasi semakin maju",
+      "Masyarakat semakin maju",
+      "Nilai budaya bergeser",
+      "Mudah bergaul"
+    ],
     "answer": 2,
-    "pembahasan": "Globalisasi dapat menggeser nilai budaya lokal akibat pengaruh luar."
+    "pembahasan": "Globalisasi dapat menggeser nilai budaya lokal."
   },
   {
-    "text": "Perilaku konsumerisme berkaitan dengan bidang...",
+    "id": 20,
+    "text": "Perilaku konsumerisme berkaitan dengan bidang ....",
     "options": ["Sosial", "Budaya", "Ekonomi", "Pendidikan"],
     "answer": 2,
-    "pembahasan": "Konsumerisme berkaitan dengan perilaku ekonomi dalam penggunaan barang dan jasa."
-  },
-  {
-    "text": "Globalisasi ditandai kemajuan...",
-    "options": ["IPTEK", "Budaya", "Ekonomi", "Industri"],
-    "answer": 0,
-    "pembahasan": "Globalisasi berkembang pesat karena kemajuan ilmu pengetahuan dan teknologi."
-  },
-  {
-    "text": "Contoh komoditas pertanian adalah...",
-    "options": ["Karet", "Kelapa sawit", "Kedelai", "Teh"],
-    "answer": 2,
-    "pembahasan": "Kedelai merupakan hasil pertanian pangan, sedangkan lainnya termasuk perkebunan."
-  },
-  {
-    "text": "Negara tujuan ekspor utama Indonesia adalah...",
-    "options": ["AS dan Malaysia", "Filipina dan Thailand", "Jepang dan AS", "Malaysia dan Thailand"],
-    "answer": 2,
-    "pembahasan": "Jepang dan Amerika Serikat merupakan tujuan utama ekspor nonmigas Indonesia."
-  },
-   {
-    "text": "Yang dimaksud dengan peta adalah ....",
-    "options": [
-      "gambaran konvensional dari suatu kota yang dituangkan dalam kertas serta diberi penjelasan",
-      "gambaran konvensional dari permukaan bumi yang diperkecil dengan skala",
-      "gambaran lokasi suatu daerah yang diperkecil dengan skala",
-      "gambaran semua bagian bumi yang diberi keterangan"
-    ],
-    "answer": 1,
-    "pembahasan": "Peta adalah gambaran permukaan bumi pada bidang datar yang diperkecil menggunakan skala dan simbol tertentu."
-  },
-  {
-    "text": "Gas penyusun atmosfer bumi dalam jumlah terbesar adalah....",
-    "options": ["argon", "oksigen", "nitrogen", "karbondioksida"],
-    "answer": 2,
-    "pembahasan": "Nitrogen merupakan gas terbesar di atmosfer bumi, sekitar 78%, diikuti oksigen sekitar 21%."
-  },
-  {
-    "text": "Berikut yang merupakan unsur-unsur cuaca adalah....",
-    "options": [
-      "topografi, suhu dan letak astronomi",
-      "angin, awan dan topografinya",
-      "hujan, awan dan manusia",
-      "suhu, tekanan udara dan hujan"
-    ],
-    "answer": 3,
-    "pembahasan": "Unsur cuaca meliputi suhu udara, tekanan udara, angin, kelembapan, awan, dan curah hujan."
-  },
-  {
-    "text": "Perhatikan pernyataan berikut!\n(1) Memiliki lautan yang sangat luas\n(2) Terdiri atas banyak pulau besar dan kecil\n(3) Memiliki keanekaragaman flora dan fauna\n(4) Mempunyai berbagai potensi ancaman bencana\n(5) Beriklim tropis dengan curah hujan tinggi.\nPernyataan yang menjelaskan keadaan alam berdasarkan letak wilayah Indonesia adalah ....",
-    "options": ["(1), (2), dan (3)", "(1), (3), dan (5)", "(2), (4), dan (5)", "(3), (4), dan (5)"],
-    "answer": 3,
-    "pembahasan": "Letak wilayah Indonesia di daerah tropis dan pertemuan lempeng menyebabkan keanekaragaman hayati, potensi bencana, serta iklim tropis dengan curah hujan tinggi."
-  },
-  {
-    "text": "Indonesia dijuluki negara maritim. Negara maritim adalah ....",
-    "options": [
-      "memiliki daratan luas",
-      "memiliki banyak gunung",
-      "memiliki perairan luas",
-      "memiliki jumlah penduduk banyak"
-    ],
-    "answer": 2,
-    "pembahasan": "Negara maritim adalah negara yang wilayahnya didominasi oleh perairan seperti laut dan samudra."
-  },
-  {
-    "text": "Secara geologis, Indonesia terletak di zona pertemuan tiga lempeng besar dunia, yaitu ....",
-    "options": [
-      "Eurasia, Indo-Australia, dan Pasifik",
-      "Eurasia, Pasifik, dan Amerika",
-      "India, Eurasia, dan Hindia",
-      "Pasifik, Indo-Australia, dan Antartika"
-    ],
-    "answer": 0,
-    "pembahasan": "Indonesia berada di pertemuan lempeng Eurasia, Indo-Australia, dan Pasifik sehingga rawan gempa dan banyak gunung api."
+    "pembahasan": "Konsumerisme berkaitan dengan perilaku ekonomi."
   }
 ]
