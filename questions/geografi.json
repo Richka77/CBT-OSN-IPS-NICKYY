@@ -1,62 +1,202 @@
 [
   {
-    "text": "Di bawah ini adalah syarat-syarat peta. Kecuali...",
-    "options": ["Legenda", "Simbol", "Keterangan", "Inset"],
-    "answer": 2,
-    "pembahasan": "'Keterangan' bukan syarat peta yang baku. Syarat peta yang benar meliputi: judul, skala, legenda, simbol, orientasi, sumber, dan inset."
+    "text": "Perhatikan kegiatan ekonomi berikut! Pengembangan obyek wisata bahari, budidaya perikanan darat, budidaya tambak garam, pertanian pasang surut, pertanian ladang. Kegiatan ekonomi yang diusahakan penduduk di daerah pantai ditunjukkan oleh angka...",
+    "options": ["1), 2), dan 3)", "1), 3), dan 4)", "2), 3), dan 4)", "3), 4), dan 5)"],
+    "answer": 1,
+    "pembahasan": "Kegiatan ekonomi di daerah pantai meliputi wisata bahari, tambak garam, dan pertanian pasang surut. Budidaya perikanan darat dan pertanian ladang bukan khas wilayah pantai."
   },
   {
-    "text": "Proyeksi peta yang cocok digunakan untuk menggambarkan daerah kutub adalah...",
-    "options": ["Silindris", "Kerucut", "Azimuthal", "Mercator"],
+    "text": "Indonesia memiliki banyak gunung api aktif. Dampak tersebut merupakan akibat dari adanya...",
+    "options": ["Letak astronomis", "Letak geografis", "Letak geologis", "Letak absolut"],
     "answer": 2,
-    "pembahasan": "Proyeksi Azimuthal paling cocok untuk daerah kutub karena titik pusat proyeksi diletakkan di kutub sehingga distorsi minimal."
+    "pembahasan": "Indonesia berada di pertemuan lempeng tektonik sehingga banyak gunung api aktif. Hal ini berkaitan dengan letak geologis."
   },
   {
-    "text": "Skala 1:100.000 berarti 1 cm di peta mewakili berapa km di lapangan?",
-    "options": ["1 km", "10 km", "100 km", "0,1 km"],
+    "text": "Perhatikan pernyataan berikut! (1) Jumlah pelakunya lebih dari satu orang (2) Berlangsung secara sepihak (3) Adanya komunikasi antarpelaku (4) Hanya masa kini dan mendatang (5) Tidak harus memiliki tujuan tertentu. Ciri-ciri interaksi sosial adalah...",
+    "options": ["1 dan 2", "1 dan 3", "2 dan 4", "3 dan 5"],
+    "answer": 1,
+    "pembahasan": "Interaksi sosial memerlukan minimal dua orang dan adanya komunikasi. Interaksi tidak berlangsung sepihak dan biasanya memiliki tujuan."
+  },
+  {
+    "text": "Tipe gunung api yang banyak terdapat di Indonesia adalah...",
+    "options": ["Maar", "Perisai", "Strato", "Kaldera"],
+    "answer": 2,
+    "pembahasan": "Gunung api di Indonesia umumnya bertipe strato (kerucut) karena terbentuk dari lapisan lava dan material vulkanik."
+  },
+  {
+    "text": "Erosi akibat gelombang laut yang mengikis pantai disebut...",
+    "options": ["Abrasi", "Deflasi", "Glasial", "Korasi"],
     "answer": 0,
-    "pembahasan": "1:100.000 berarti 1 cm = 100.000 cm = 1.000 m = 1 km di lapangan."
+    "pembahasan": "Abrasi adalah pengikisan pantai oleh gelombang laut. Deflasi oleh angin, glasial oleh es, dan korasi oleh angin berpasir."
   },
   {
-    "text": "Garis yang menghubungkan tempat-tempat yang memiliki tekanan udara yang sama disebut...",
-    "options": ["Isohyet", "Isotherm", "Isobar", "Isohips"],
+    "text": "Contoh negara-negara di kawasan Asia adalah...",
+    "options": ["Pakistan, India, Nepal, Guatemala, Haiti", "Korea Selatan, Taiwan, Maroko, Sahara Barat, Aljazair", "Korea Selatan, Taiwan, Indonesia, Malaysia, Singapura", "Indonesia, Malaysia, Singapura, Myanmar, Thailand, Portugal"],
     "answer": 2,
-    "pembahasan": "Isobar adalah garis khayal yang menghubungkan tempat-tempat dengan tekanan udara sama. Isohyet = curah hujan, Isotherm = suhu, Isohips = ketinggian."
+    "pembahasan": "Pilihan C berisi negara-negara yang semuanya berada di Asia. Pilihan lain mencampur negara dari benua lain."
   },
   {
-    "text": "Fenomena alam yang termasuk dalam aspek fisik geografi adalah...",
-    "options": ["Mobilitas penduduk", "Persebaran permukiman", "Erosi tanah", "Kepadatan penduduk"],
+    "text": "Perhatikan provinsi berikut! Kalimantan Tengah, Sulawesi Selatan, DI Yogyakarta, Kepulauan Riau, Bangka Belitung, Nusa Tenggara. Provinsi kepulauan adalah...",
+    "options": ["1, 2, 3", "1, 4, 6", "3, 4, 5", "4, 5, 6"],
+    "answer": 3,
+    "pembahasan": "Provinsi kepulauan terdiri dari banyak pulau, seperti Kepulauan Riau, Bangka Belitung, dan Nusa Tenggara."
+  },
+  {
+    "text": "Jika skala peta 1 : 15.000.000 maka 1 cm di peta sama dengan...",
+    "options": ["1,5 km", "15 km", "150 km", "1500 km"],
     "answer": 2,
-    "pembahasan": "Erosi tanah merupakan aspek fisik karena berkaitan dengan proses alam. Pilihan lain termasuk aspek sosial/manusia."
+    "pembahasan": "1 cm = 15.000.000 cm = 150 km, karena 1 km = 100.000 cm."
   },
   {
-    "text": "Lapisan atmosfer yang berfungsi melindungi bumi dari sinar ultraviolet adalah...",
-    "options": ["Troposfer", "Stratosfer", "Mesosfer", "Termosfer"],
+    "text": "Pak Iwan menjual tanah dan membeli rumah. Fungsi uang dalam peristiwa ini adalah...",
+    "options": ["Fungsi turunan", "Alat pengukur nilai", "Alat tukar", "Alat pemindah kekayaan"],
+    "answer": 3,
+    "pembahasan": "Uang digunakan untuk memindahkan kekayaan dari bentuk tanah ke rumah, sehingga berfungsi sebagai alat pemindah kekayaan."
+  },
+  {
+    "text": "Kegunaan garis lintang adalah...",
+    "options": ["Menentukan letak dan waktu", "Menentukan letak dan iklim matahari", "Menentukan letak dan pembagian iklim", "Menentukan letak negara dan waktu"],
+    "answer": 2,
+    "pembahasan": "Garis lintang digunakan untuk menentukan letak suatu wilayah dan pembagian iklim berdasarkan posisi terhadap matahari."
+  },
+  {
+    "text": "Kerja sama ekonomi negara-negara Asia Pasifik adalah...",
+    "options": ["ASEAN", "OPEC", "APEC", "WTO"],
+    "answer": 2,
+    "pembahasan": "APEC (Asia-Pacific Economic Cooperation) merupakan kerja sama ekonomi di kawasan Asia Pasifik."
+  },
+  {
+    "text": "Candi Prambanan merupakan peninggalan bercorak...",
+    "options": ["Hindu", "Buddha", "Islam", "Hindu-Buddha"],
+    "answer": 0,
+    "pembahasan": "Candi Prambanan adalah candi Hindu yang didedikasikan untuk Trimurti: Brahma, Wisnu, dan Siwa."
+  },
+  {
+    "text": "Peninggalan berupa tulang manusia atau hewan purba disebut...",
+    "options": ["Fosil", "Candi", "Prasasti", "Monumen"],
+    "answer": 0,
+    "pembahasan": "Fosil adalah sisa-sisa makhluk hidup purba yang telah membatu dan tersimpan dalam lapisan bumi."
+  },
+  {
+    "text": "Upaya mencegah pemanasan global adalah...",
+    "options": ["Membuang sampah", "Tidak buang limbah ke sungai", "Menanam pohon", "Membuat waduk"],
+    "answer": 2,
+    "pembahasan": "Menanam pohon membantu menyerap CO2 sehingga mengurangi efek rumah kaca."
+  },
+  {
+    "text": "Salah satu keajaiban dunia dari India adalah...",
+    "options": ["Menara Eiffel", "Taj Mahal", "Tembok Besar China", "Piramida"],
     "answer": 1,
-    "pembahasan": "Stratosfer mengandung lapisan ozon yang menyerap dan melindungi bumi dari radiasi ultraviolet berbahaya."
+    "pembahasan": "Taj Mahal di India merupakan salah satu keajaiban dunia yang terkenal."
   },
   {
-    "text": "Proses pengendapan material hasil erosi disebut...",
-    "options": ["Abrasi", "Sedimentasi", "Deflasi", "Korasi"],
+    "text": "Dampak negatif globalisasi adalah...",
+    "options": ["Mencintai budaya daerah", "Produksi budaya meningkat", "Budaya sering ditampilkan", "Budaya lokal ditinggalkan"],
+    "answer": 3,
+    "pembahasan": "Globalisasi dapat menyebabkan masyarakat meninggalkan budaya lokal karena pengaruh budaya asing."
+  },
+  {
+    "text": "Ciri globalisasi adalah...",
+    "options": ["Batas negara jelas", "Perdagangan luas", "Informasi sulit", "Pandangan sempit"],
     "answer": 1,
-    "pembahasan": "Sedimentasi adalah proses pengendapan material hasil erosi oleh tenaga air, angin, atau gletser."
+    "pembahasan": "Globalisasi ditandai dengan meluasnya perdagangan dan hubungan antarnegara."
   },
   {
-    "text": "Jenis tanah yang terbentuk dari pelapukan batuan granit adalah...",
-    "options": ["Tanah alluvial", "Tanah vulkanik", "Tanah laterit", "Tanah gambut"],
-    "answer": 2,
-    "pembahasan": "Tanah laterit terbentuk dari pelapukan batuan granit di daerah tropis dengan curah hujan tinggi, menghasilkan tanah merah miskin hara."
-  },
-  {
-    "text": "Sumber air tanah yang keluar secara alami ke permukaan disebut...",
-    "options": ["Artesis", "Mata air", "Danau", "Sungai"],
+    "text": "Cara menyikapi globalisasi adalah...",
+    "options": ["Meniru konsumtif", "Mengambil yang positif", "Gunakan teknologi negatif", "Terima semua budaya"],
     "answer": 1,
-    "pembahasan": "Mata air (spring) adalah air tanah yang keluar secara alami ke permukaan. Artesis adalah sumur yang air tanahnya memancar karena tekanan hidrostatis."
+    "pembahasan": "Sikap bijak adalah mengambil dampak positif dan menolak yang negatif."
   },
   {
-    "text": "Hutan yang terdapat di daerah khatulistiwa dengan curah hujan tinggi disebut...",
-    "options": ["Hutan sabana", "Hutan gugur", "Hutan hujan tropis", "Hutan bakau"],
+    "text": "Sikap pelajar menghadapi globalisasi adalah...",
+    "options": ["Pilih sesuai diri", "Beli teknologi", "Belajar mengikuti zaman", "Belajar sesuka hati"],
     "answer": 2,
-    "pembahasan": "Hutan hujan tropis terdapat di sekitar khatulistiwa dengan curah hujan 2.000–4.000 mm/tahun dan suhu tinggi sepanjang tahun."
+    "pembahasan": "Pelajar harus aktif belajar dan mengikuti perkembangan zaman dengan cara yang benar."
+  },
+  {
+    "text": "Dampak negatif globalisasi adalah...",
+    "options": ["Komunikasi maju", "Masyarakat maju", "Nilai budaya bergeser", "Mudah bergaul"],
+    "answer": 2,
+    "pembahasan": "Globalisasi dapat menggeser nilai budaya lokal akibat pengaruh luar."
+  },
+  {
+    "text": "Perilaku konsumerisme berkaitan dengan bidang...",
+    "options": ["Sosial", "Budaya", "Ekonomi", "Pendidikan"],
+    "answer": 2,
+    "pembahasan": "Konsumerisme berkaitan dengan perilaku ekonomi dalam penggunaan barang dan jasa."
+  },
+  {
+    "text": "Globalisasi ditandai kemajuan...",
+    "options": ["IPTEK", "Budaya", "Ekonomi", "Industri"],
+    "answer": 0,
+    "pembahasan": "Globalisasi berkembang pesat karena kemajuan ilmu pengetahuan dan teknologi."
+  },
+  {
+    "text": "Contoh komoditas pertanian adalah...",
+    "options": ["Karet", "Kelapa sawit", "Kedelai", "Teh"],
+    "answer": 2,
+    "pembahasan": "Kedelai merupakan hasil pertanian pangan, sedangkan lainnya termasuk perkebunan."
+  },
+  {
+    "text": "Negara tujuan ekspor utama Indonesia adalah...",
+    "options": ["AS dan Malaysia", "Filipina dan Thailand", "Jepang dan AS", "Malaysia dan Thailand"],
+    "answer": 2,
+    "pembahasan": "Jepang dan Amerika Serikat merupakan tujuan utama ekspor nonmigas Indonesia."
+  },
+   {
+    "text": "Yang dimaksud dengan peta adalah ....",
+    "options": [
+      "gambaran konvensional dari suatu kota yang dituangkan dalam kertas serta diberi penjelasan",
+      "gambaran konvensional dari permukaan bumi yang diperkecil dengan skala",
+      "gambaran lokasi suatu daerah yang diperkecil dengan skala",
+      "gambaran semua bagian bumi yang diberi keterangan"
+    ],
+    "answer": 1,
+    "pembahasan": "Peta adalah gambaran permukaan bumi pada bidang datar yang diperkecil menggunakan skala dan simbol tertentu."
+  },
+  {
+    "text": "Gas penyusun atmosfer bumi dalam jumlah terbesar adalah....",
+    "options": ["argon", "oksigen", "nitrogen", "karbondioksida"],
+    "answer": 2,
+    "pembahasan": "Nitrogen merupakan gas terbesar di atmosfer bumi, sekitar 78%, diikuti oksigen sekitar 21%."
+  },
+  {
+    "text": "Berikut yang merupakan unsur-unsur cuaca adalah....",
+    "options": [
+      "topografi, suhu dan letak astronomi",
+      "angin, awan dan topografinya",
+      "hujan, awan dan manusia",
+      "suhu, tekanan udara dan hujan"
+    ],
+    "answer": 3,
+    "pembahasan": "Unsur cuaca meliputi suhu udara, tekanan udara, angin, kelembapan, awan, dan curah hujan."
+  },
+  {
+    "text": "Perhatikan pernyataan berikut! (1) Memiliki lautan yang sangat luas (2) Terdiri atas banyak pulau besar dan kecil (3) Memiliki keanekaragaman flora dan fauna (4) Mempunyai berbagai potensi ancaman bencana (5) Beriklim tropis dengan curah hujan tinggi. Pernyataan yang menjelaskan keadaan alam berdasarkan letak wilayah Indonesia adalah ....",
+    "options": ["(1), (2), dan (3)", "(1), (3), dan (5)", "(2), (4), dan (5)", "(3), (4), dan (5)"],
+    "answer": 3,
+    "pembahasan": "Letak wilayah Indonesia di daerah tropis dan pertemuan lempeng menyebabkan keanekaragaman hayati, potensi bencana, serta iklim tropis dengan curah hujan tinggi."
+  },
+  {
+    "text": "Indonesia dijuluki negara maritim. Negara maritim adalah ....",
+    "options": [
+      "memiliki daratan luas",
+      "memiliki banyak gunung",
+      "memiliki perairan luas",
+      "memiliki jumlah penduduk banyak"
+    ],
+    "answer": 2,
+    "pembahasan": "Negara maritim adalah negara yang wilayahnya didominasi oleh perairan seperti laut dan samudra."
+  },
+  {
+    "text": "Secara geologis, Indonesia terletak di zona pertemuan tiga lempeng besar dunia, yaitu ....",
+    "options": [
+      "Eurasia, Indo-Australia, dan Pasifik",
+      "Eurasia, Pasifik, dan Amerika",
+      "India, Eurasia, dan Hindia",
+      "Pasifik, Indo-Australia, dan Antartika"
+    ],
+    "answer": 0,
+    "pembahasan": "Indonesia berada di pertemuan lempeng Eurasia, Indo-Australia, dan Pasifik sehingga rawan gempa dan banyak gunung api."
   }
 ]
